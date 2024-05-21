@@ -77,69 +77,6 @@
       "name": "Aminofol Plus",
       "quantity": "10 kg"
     }
-  ],
-  "questions": [
-    {
-      "id": 1,
-      "userName": "John Doe",
-      "ask": "What is the best time to plant rice in Amazonas?",
-      "category": "Cultivation techniques",
-      "date": "2024-07-25"
-    },
-    {
-      "id": 2,
-      "userName": "Diego Alcantara",
-      "ask": "How can I improve soil fertility naturally?",
-      "category": "Soil management",
-      "date": "2024-07-28"
-    },
-    {
-      "id": 3,
-      "userName": "John Doe",
-      "ask": "How can I reduce soil erosion in my agricultural field?",
-      "category": "Soil management",
-      "date": "2024-07-29"
-    },
-    {
-      "id": 4,
-      "userName": "Diego Alcantara",
-      "ask": "How can I reduce soil erosion in my agricultural field?",
-      "category": "Soil management",
-      "date": "2024-07-22"
-    },
-    {
-      "id": 10,
-      "userName": "Diego Alcantara",
-      "ask": "How to control rice blast?",
-      "category": "Diseases",
-      "date": "2024-07-25"
-    }
-  ],
-  "answers": [
-    {
-      "id": 1,
-      "questionId": 1,
-      "userName": "Alexis Sanchez",
-      "content":  "In my experience, the best time to plant rice in Amazonas is early December. Rainfall is usually steady but not excessive, which creates optimal conditions for rice growth. In addition, planting at this time allows us to avoid periods of heavier rains that can cause waterlogging problems."
-    },
-    {
-      "id": 2,
-      "questionId": 1,
-      "userName": "Gino Peruzzi",
-      "content": "Based on climate data and soil analysis, I would recommend planting rice in Amazonas in late November or early December. This period coincides with the beginning of the rainy season, which provides sufficient moisture for initial plant development. However, it is important to monitor local weather conditions and adapt planting as needed."
-    },
-    {
-      "id": 3,
-      "questionId": 1,
-      "userName": "Gino Peruzzi",
-      "content":  "In our area, we have found that the best time to plant rice is mid-January. During this period, rainfall is more stable and abundant, which ensures a constant supply of water for plant growth. In addition, planting in January allows us to avoid the risks associated with December's torrential rains and flash floods."
-    },
-    {
-      "id": 4,
-      "questionId": 2,
-      "userName": "Alexis Sanchez",
-      "content": "To improve soil fertility naturally, you can use organic fertilizers such as compost, manure, and cover crops. These materials provide essential nutrients to the soil and promote the growth of beneficial microorganisms. In addition, organic fertilizers help improve soil structure, water retention, and aeration, which are essential for plant growth."
-    }
   ]
 }
 
